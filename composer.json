@@ -1,5 +1,5 @@
 {
-	"name": "radakovic/original_theme",
+	"name": "laraclassifier/laraclassifier",
 	"type": "project",
 	"description": "Classified Ads Web Application.",
 	"keywords": [
@@ -13,7 +13,11 @@
 	"repositories": [
 		{
 			"type": "vcs",
-			"url": "git@github.com:radakovic/eloquent-datatable.git"
+			"url": "https://github.com/mayeulak/EloquentDataTable"
+		},
+		{
+			"type": "vcs",
+			"url": "https://github.com/mayeulak/guzzle6-adapter"
 		}
 	],
 	"require": {
