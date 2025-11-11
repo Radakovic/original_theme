@@ -13,11 +13,7 @@
 	"repositories": [
 		{
 			"type": "vcs",
-			"url": "https://github.com/mayeulak/EloquentDataTable"
-		},
-		{
-			"type": "vcs",
-			"url": "https://github.com/mayeulak/guzzle6-adapter"
+			"url": "git@github.com:radakovic/eloquent-datatable.git"
 		}
 	],
 	"require": {
